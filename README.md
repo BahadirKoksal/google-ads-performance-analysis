@@ -126,3 +126,6 @@ Annual KPIs were calculated using `SUM()` and `AVERAGE()` functions referencing 
 - **Google Ads CSV Export** — Raw data source
 
 ---
+## 🔗 Related Project
+This analysis is part of a two-platform ad performance study:
+- 👉 [Facebook Ads Performance Analysis](https://github.com/BahadirKoksal/facebook-ads-performance-analysis)
