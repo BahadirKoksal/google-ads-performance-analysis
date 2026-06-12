@@ -42,24 +42,6 @@ This project analyzes annual Google Ads performance data for a Netflix marketing
 | `Monthly_Analysis_Google` | SUMIF-based monthly breakdown |
 | `Özet_Google` | Summary dashboard with annual and monthly KPIs |
 
----
-
-## 📸 Screenshots
-
-### Raw Data
-![Raw Data](screenshots/01_raw_data.png)
-
-### Daily Metrics
-![Daily Metrics](screenshots/02_daily_metrics.png)
-
-### Pivot Table Monthly Analysis
-![Pivot Table](screenshots/03_pivot_table.png)
-
-### Monthly Analysis (SUMIF)
-![Monthly Analysis](screenshots/04_monthly_analysis.png)
-
-### Summary Dashboard
-![Summary](screenshots/05_summary.png)
 
 ---
 
